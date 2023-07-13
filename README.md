@@ -6,7 +6,7 @@
 
 # 프로젝트 내용
 
-    - Todo 추가, 삭제, 수정
+    - Todo 추가, 삭제
     - Todo 탭메뉴(All, Active, Completed)
     - Dark-white 모드
     - localStorage 데이터 저장
