@@ -8,7 +8,7 @@
 
     - Todo 추가, 삭제
     - Todo 탭메뉴(All, Active, Completed)
-    - Dark-white 모드
+    - Dark 모드
     - localStorage 데이터 저장
 
 # 프로젝트 이미지
